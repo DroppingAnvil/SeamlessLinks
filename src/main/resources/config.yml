@@ -1,0 +1,22 @@
+#   ________  _______   ________  _____ ______   ___       _______   ________   ________           ___       ___  ________   ___  __    ________
+#  |\   ____\|\  ___ \ |\   __  \|\   _ \  _   \|\  \     |\  ___ \ |\   ____\ |\   ____\         |\  \     |\  \|\   ___  \|\  \|\  \ |\   ____\
+#    \ \  \___|\ \   __/|\ \  \|\  \ \  \\\__\ \  \ \  \    \ \   __/|\ \  \___|_\ \  \___|_        \ \  \    \ \  \ \  \\ \  \ \  \/  /|\ \  \___|_
+#    \ \_____  \ \  \_|/_\ \   __  \ \  \\|__| \  \ \  \    \ \  \_|/_\ \_____  \\ \_____  \        \ \  \    \ \  \ \  \\ \  \ \   ___  \ \_____  \
+#    \|____|\  \ \  \_|\ \ \  \ \  \ \  \    \ \  \ \  \____\ \  \_|\ \|____|\  \\|____|\  \        \ \  \____\ \  \ \  \\ \  \ \  \\ \  \|____|\  \
+#    ____\_\  \ \_______\ \__\ \__\ \__\    \ \__\ \_______\ \_______\____\_\  \ ____\_\  \        \ \_______\ \__\ \__\\ \__\ \__\\ \__\____\_\  \
+#    |\_________\|_______|\|__|\|__|\|__|     \|__|\|_______|\|_______|\_________\\_________\        \|_______|\|__|\|__| \|__|\|__| \|__|\_________\
+#    \|_________|                                                     \|_________\|_________|                                            \|_________|
+# An overdone Discord/Voting/Webiste/Anything link system by Dropping Anvil
+commands:
+  # Messages support Placeholder API #
+  ####### IMPORTANT #######
+  # Use the lowercase version of your command so if I where making a command to view Discord invite links it is NOT 'Discord:' it would be 'discord:'
+  ####### IMPORTANT #######
+  discord:
+    - '&b&l&o-----------&f&l&oSupport Discord&8&l&o-----------'
+    - '&b&l&oDiscord.SeamlessFactions.com'
+  vote:
+    - '&b&l&o------------&f&l&oVoting Links&8&l&o------------'
+    - '&b&l&ohttps://YourVotingLinksHere.com/YourServer'
+debug: false
+ignore-cancelled: true
